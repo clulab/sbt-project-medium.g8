@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/clulab/sbt-project.g8.svg?branch=main)](https://travis-ci.org/clulab/sbt-project.g8)
+
 # sbt-project.g8
 
 This is a [Giter8](http://foundweekends.org/giter8) template for creating an `sbt` project for a Scala application.  It is specifically for the  [CLU Lab](http://github.com/clulab) because it includes URLs to the lab's [Artifactory](http://artifactory.cs.arizona.edu:8081/artifactory/webapp/#/home) and [Sonatype](https://oss.sonatype.org/index.html#nexus-search;quick~clulab) servers, which wouldn't work for other groups, and it uses conventions and practices that are particular to this lab.
