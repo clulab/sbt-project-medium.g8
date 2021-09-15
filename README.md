@@ -2,7 +2,7 @@
 
 # sbt-project-medium.g8
 
-This is a [Giter8](http://foundweekends.org/giter8) template for creating a medium `sbt` project for a Scala application.  It is specifically for the [CLU Lab](http://github.com/clulab) because it includes URLs to the lab's [Artifactory](http://artifactory.cs.arizona.edu:8081/artifactory/webapp/#/home) and [Sonatype](https://oss.sonatype.org/index.html#nexus-search;quick~clulab) servers, which wouldn't work for other groups, and it uses conventions and practices that are particular to this lab.  For a medium project, code is contained in the root project and then additionally in a common project so that it can be shared with other projects or published separately.
+This is a [Giter8](http://foundweekends.org/giter8) template for creating a medium `sbt` project for a Scala application.  It is specifically for the [CLU Lab](http://github.com/clulab) because it includes URLs to the lab's [Artifactory](http://artifactory.cs.arizona.edu:8081/artifactory/webapp/#/home) and [Sonatype](https://oss.sonatype.org/index.html#nexus-search;quick~clulab) servers, which wouldn't work for other groups, and it uses conventions and practices that are particular to this lab.  For a medium project, code is contained in the root directory and then additionally in a common directory so that it can be shared with other projects or published separately.
 
 To use this template as an `sbt` project, do not clone it, but instead run
 ```
